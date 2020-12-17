@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 ### Find me around
 
-[💼 LinkedIn](https://www.linkedin.com/in/paalfer96/)
-[💡 Twitter](https://twitter.com/PaalferData)
+- [💼 LinkedIn](https://www.linkedin.com/in/paalfer96/)
+- [💡 Twitter](https://twitter.com/PaalferData)
