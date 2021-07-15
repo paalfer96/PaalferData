@@ -7,8 +7,7 @@ I'll be showing you What <b> I am doing </b> or What <b> I want to learn about <
 
 - 🔭 I’m currently working on <b>ML/DL</b> projects
 - 🌱 I’m mainly learning from [Kaggle](https://www.kaggle.com/) , [Coursera](https://www.coursera.org/) 
-- 👯 I’m looking to collaborate on big
--  <b> data science </b> projects
+- 👯 I’m looking to collaborate on big <b> data science </b> projects
 
 
 ### Find me around
