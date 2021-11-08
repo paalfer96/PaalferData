@@ -13,4 +13,4 @@ I'll be showing you What <b> I am doing </b> or What <b> I want to learn about <
 ### Find me around
 
 - [💼 LinkedIn](https://www.linkedin.com/in/paalfer96/)
-- [💡 Twitter](https://twitter.com/PaalferData)
+- [💡 Medium](https://medium.com/@paalfer96)
